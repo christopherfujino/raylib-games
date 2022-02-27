@@ -35,6 +35,17 @@
 *.i*86
 *.x86_64
 *.hex
+classics/src/arkanoid
+classics/src/asteroids
+classics/src/asteroids_survival
+classics/src/floppy
+classics/src/gold_fever
+classics/src/gorilas
+classics/src/missile_commander
+classics/src/pang
+classics/src/snake
+classics/src/space_invaders
+classics/src/tetris
 
 # Debug files
 *.dSYM/
